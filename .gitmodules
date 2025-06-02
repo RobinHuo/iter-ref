@@ -1,3 +1,6 @@
 [submodule "fairseq"]
 	path = fairseq
 	url = https://github.com/RobinHuo/fairseq.git
+[submodule "layerwise-analysis"]
+	path = layerwise-analysis
+	url = https://github.com/RobinHuo/layerwise-analysis.git
