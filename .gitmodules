@@ -4,3 +4,6 @@
 [submodule "layerwise-analysis"]
 	path = layerwise-analysis
 	url = https://github.com/RobinHuo/layerwise-analysis.git
+[submodule "hubert-training"]
+	path = hubert-training
+	url = https://github.com/RobinHuo/hubert-training.git
